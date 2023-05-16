@@ -1,0 +1,9 @@
+.SearchForm{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.input{
+   padding: 8px;
+   margin-right: 5px;
+}
